@@ -1,16 +1,54 @@
-## Hi there 👋
+Hi there 👋 I'm Teejay
 
-<!--
-**Teejay-hue/Teejay-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate developer who loves building things with code.
+🚀 Currently focused on Java and Android development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+- Java Programming
+- Android App Development
+- Kotlin
+- XML
+- Problem Solving
+
+---
+
+🛠 Tech Stack
+
+- Java
+- Kotlin
+- Android Studio
+- Git & GitHub
+
+---
+
+📂 Projects
+
+Here are some things I'm working on:
+
+- 🔐 OTP Authentication App
+- 🌐 Personal Portfolio Website
+
+(More projects coming soon...)
+
+---
+
+📈 Goals
+
+- Build real-world Android apps
+- Master Java programming
+- Contribute to open-source projects
+
+---
+
+⚡ Fun Fact
+
+I love coding more than anything else and enjoy solving complex problems.
+
+---
+
+📫 Connect With Me
+
+GitHub: "https://github.com/Teejay-hue" (https://github.com/Teejay-hue)
